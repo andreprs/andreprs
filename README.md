@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, me chamo André!
 
-<!--
-**andreprs/andreprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entusiasta de engenharia e tecnologia.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/andreprs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:andreprasel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Um pouquinho sobre mim**
+
+```python
+
+def andreprs:
+  pronomes = ['Ele', 'Dele']
+  idade = 21
+  linguagens = ['Python', 'C', 'MATLAB']
+  gostos = ['tecnologia', 'física', 'games', 'música', 'manga & anime']
+  estudando = ['JavaScript', 'BigData & Analytics']
+  formacao = 'Engenheiro eletricista em formação'
+  projetos = {
+                irrigador: "Desenvolvi um sistema de irrigação automatizado com arduino"
+                alimentador: "Participei do desenvolvimento de um alimentador de animais domésticos controlado através de aplicativo de celular"
+             }
+  ferramentas = ['Autocad', 'VsCode', 'Pycharm', 'Terminal']
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreprs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreprs&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
