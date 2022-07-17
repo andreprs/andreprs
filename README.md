@@ -12,7 +12,7 @@ Entusiasta de engenharia e tecnologia.
 def andreprs:
   pronomes = ['Ele', 'Dele']
   idade = 21
-  linguagens = ['Python', 'C', 'MATLAB']
+  linguagens = ['Python', 'C', 'MATLAB', 'JavaScript']
   gostos = ['tecnologia', 'física', 'games', 'música', 'manga & anime']
   estudando = ['JavaScript', 'BigData & Analytics']
   formacao = 'Engenheiro eletricista em formação'
