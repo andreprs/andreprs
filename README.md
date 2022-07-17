@@ -12,9 +12,9 @@ Entusiasta de engenharia e tecnologia.
 def andreprs:
   pronomes = ['Ele', 'Dele']
   idade = 21
-  linguagens = ['Python', 'C', 'MATLAB', 'JavaScript']
+  linguagens = ['Python', 'C', 'MATLAB']
   gostos = ['tecnologia', 'física', 'games', 'música', 'manga & anime']
-  estudando = ['JavaScript', 'BigData & Analytics']
+  estudando = ['JavaScript', 'BigData & Analytics', 'SQL']
   formacao = 'Engenheiro eletricista em formação'
   projetos = {
                 irrigador: "Desenvolvi um sistema de irrigação automatizado com arduino"
